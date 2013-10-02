@@ -1,0 +1,8 @@
+# Files to ignore
+.DS_Store
+weltmeister.html
+
+# Folders to ignore
+lib/impact
+lib/weltmeister
+tools
